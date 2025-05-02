@@ -1,0 +1,1502 @@
+[
+    {
+        "context": {
+            "scn_sentence": "A roommate spends hours every day playing video games, neglecting their responsibilities",
+            "reasoning": "It's unclear how the roommate manages their responsibilities while spending hours every day playing video games."
+        },
+        "follow-up": {
+            "FQ": "Why is the roommate neglecting their responsibilities to play video games?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A roommate spends hours every day playing video games, neglecting their responsibilities",
+            "reasoning": "It's unclear how the roommate manages their responsibilities while spending hours every day playing video games."
+        },
+        "follow-up": {
+            "FQ": "Does the roommate have any social interactions outside of gaming?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A roommate spends hours every day playing video games, neglecting their responsibilities",
+            "reasoning": "It's unclear how the roommate manages their responsibilities while spending hours every day playing video games."
+        },
+        "follow-up": {
+            "FQ": "How does the roommate's gaming habit affect the other people living in the house?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "The old clock, habitually silent, now chimes every hour",
+            "reasoning": "It's unclear why the old clock, which was habitually silent, now chimes every hour."
+        },
+        "follow-up": {
+            "FQ": "Why has the old clock started chiming every hour?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "The old clock, habitually silent, now chimes every hour",
+            "reasoning": "It's unclear why the old clock, which was habitually silent, now chimes every hour."
+        },
+        "follow-up": {
+            "FQ": "Is there any significance to the hourly chimes?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "The old clock, habitually silent, now chimes every hour",
+            "reasoning": "It's unclear why the old clock, which was habitually silent, now chimes every hour."
+        },
+        "follow-up": {
+            "FQ": "Are there any events or changes in the environment that coincide with the clock's hourly chimes?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A pillow is in the oven",
+            "reasoning": "It's unclear why a pillow would be in the oven, as this is not a typical place for it."
+        },
+        "follow-up": {
+            "FQ": "Why is there a pillow in the oven?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A pillow is in the oven",
+            "reasoning": "It's unclear why a pillow would be in the oven, as this is not a typical place for it."
+        },
+        "follow-up": {
+            "FQ": "What type of pillow is it?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A pillow is in the oven",
+            "reasoning": "It's unclear why a pillow would be in the oven, as this is not a typical place for it."
+        },
+        "follow-up": {
+            "FQ": "Who could have possibly put the pillow in the oven?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A neighbor always writes in calligraphy, even for simple to-do lists",
+            "reasoning": "It's unclear why the neighbor always uses calligraphy, even for simple tasks like writing to-do lists."
+        },
+        "follow-up": {
+            "FQ": "Why does the neighbor always use calligraphy for writing, even for simple tasks?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A neighbor always writes in calligraphy, even for simple to-do lists",
+            "reasoning": "It's unclear why the neighbor always uses calligraphy, even for simple tasks like writing to-do lists."
+        },
+        "follow-up": {
+            "FQ": "Does the neighbor have a professional background in calligraphy?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A neighbor always writes in calligraphy, even for simple to-do lists",
+            "reasoning": "It's unclear why the neighbor always uses calligraphy, even for simple tasks like writing to-do lists."
+        },
+        "follow-up": {
+            "FQ": "Does the neighbor use any special tools or materials for their calligraphy?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A man walked into the room with a limp",
+            "reasoning": "It's unclear why the man is limping as he walks into the room."
+        },
+        "follow-up": {
+            "FQ": "What caused the man's limp?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A man walked into the room with a limp",
+            "reasoning": "It's unclear why the man is limping as he walks into the room."
+        },
+        "follow-up": {
+            "FQ": "Was there any noticeable reaction from others in the room when the man walked in?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A man walked into the room with a limp",
+            "reasoning": "It's unclear why the man is limping as he walks into the room."
+        },
+        "follow-up": {
+            "FQ": "Did the limp affect the man's speed or ability to navigate the room?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A tube of toothpaste hides in a cereal box",
+            "reasoning": "It's unclear why a tube of toothpaste is hiding in a cereal box, which is an unusual place for it."
+        },
+        "follow-up": {
+            "FQ": "Why is the toothpaste tube in a cereal box?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A tube of toothpaste hides in a cereal box",
+            "reasoning": "It's unclear why a tube of toothpaste is hiding in a cereal box, which is an unusual place for it."
+        },
+        "follow-up": {
+            "FQ": "Is this a common occurrence or a one-time event?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A tube of toothpaste hides in a cereal box",
+            "reasoning": "It's unclear why a tube of toothpaste is hiding in a cereal box, which is an unusual place for it."
+        },
+        "follow-up": {
+            "FQ": "Is the cereal box empty or full?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A broom is standing in the elevator",
+            "reasoning": "It's unclear how a broom ended up standing in the elevator."
+        },
+        "follow-up": {
+            "FQ": "Why is there a broom in the elevator?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A broom is standing in the elevator",
+            "reasoning": "It's unclear how a broom ended up standing in the elevator."
+        },
+        "follow-up": {
+            "FQ": "Is the broom being used for cleaning?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A broom is standing in the elevator",
+            "reasoning": "It's unclear how a broom ended up standing in the elevator."
+        },
+        "follow-up": {
+            "FQ": "Does the elevator frequently have items left in it?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A noisy playground is eerily silent in the afternoon",
+            "reasoning": "It's unclear why a typically noisy playground would be eerily silent in the afternoon."
+        },
+        "follow-up": {
+            "FQ": "Why is the usually noisy playground silent in the afternoon?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A noisy playground is eerily silent in the afternoon",
+            "reasoning": "It's unclear why a typically noisy playground would be eerily silent in the afternoon."
+        },
+        "follow-up": {
+            "FQ": "Is the silence a regular occurrence or an anomaly?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A noisy playground is eerily silent in the afternoon",
+            "reasoning": "It's unclear why a typically noisy playground would be eerily silent in the afternoon."
+        },
+        "follow-up": {
+            "FQ": "Could there be any potential dangers causing the silence?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A gentleman hands his umbrella to a stranger and continues to walk basking in the rain",
+            "reasoning": "It's unclear why the gentleman would hand his umbrella to a stranger and choose to walk in the rain himself."
+        },
+        "follow-up": {
+            "FQ": "Why did the gentleman give his umbrella to a stranger?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A gentleman hands his umbrella to a stranger and continues to walk basking in the rain",
+            "reasoning": "It's unclear why the gentleman would hand his umbrella to a stranger and choose to walk in the rain himself."
+        },
+        "follow-up": {
+            "FQ": "Is the gentleman enjoying the rain or is he forced to walk in it?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A gentleman hands his umbrella to a stranger and continues to walk basking in the rain",
+            "reasoning": "It's unclear why the gentleman would hand his umbrella to a stranger and choose to walk in the rain himself."
+        },
+        "follow-up": {
+            "FQ": "What is the weather condition apart from the rain?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A clock is hanging on the tree branch",
+            "reasoning": "It's unclear why a clock would be hanging on a tree branch, as this is not a typical place for a clock."
+        },
+        "follow-up": {
+            "FQ": "Why is the clock hanging on the tree branch?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A clock is hanging on the tree branch",
+            "reasoning": "It's unclear why a clock would be hanging on a tree branch, as this is not a typical place for a clock."
+        },
+        "follow-up": {
+            "FQ": "Is the clock functioning or broken?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A clock is hanging on the tree branch",
+            "reasoning": "It's unclear why a clock would be hanging on a tree branch, as this is not a typical place for a clock."
+        },
+        "follow-up": {
+            "FQ": "Are there any other objects hanging from the tree?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A habitual early riser is seen sleeping in till noon",
+            "reasoning": "It's unclear why the habitual early riser, who usually wakes up early, is seen sleeping in till noon."
+        },
+        "follow-up": {
+            "FQ": "What caused the early riser to sleep in till noon?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A habitual early riser is seen sleeping in till noon",
+            "reasoning": "It's unclear why the habitual early riser, who usually wakes up early, is seen sleeping in till noon."
+        },
+        "follow-up": {
+            "FQ": "Is this a one-time occurrence or has it become a pattern?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A habitual early riser is seen sleeping in till noon",
+            "reasoning": "It's unclear why the habitual early riser, who usually wakes up early, is seen sleeping in till noon."
+        },
+        "follow-up": {
+            "FQ": "Could there be external factors influencing the person's sleep pattern?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "An athlete stopped in the middle of a marathon, sat on the curb and watched the other racers",
+            "reasoning": "It's unclear why the athlete, who was participating in the marathon, suddenly stopped and sat on the curb to watch the other racers."
+        },
+        "follow-up": {
+            "FQ": "Why did the athlete stop running in the middle of the marathon?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "An athlete stopped in the middle of a marathon, sat on the curb and watched the other racers",
+            "reasoning": "It's unclear why the athlete, who was participating in the marathon, suddenly stopped and sat on the curb to watch the other racers."
+        },
+        "follow-up": {
+            "FQ": "Was there any physical discomfort visible on the athlete?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "An athlete stopped in the middle of a marathon, sat on the curb and watched the other racers",
+            "reasoning": "It's unclear why the athlete, who was participating in the marathon, suddenly stopped and sat on the curb to watch the other racers."
+        },
+        "follow-up": {
+            "FQ": "What was the atmosphere of the race when the athlete stopped?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A stack of newspapers blocks a refrigerator's door",
+            "reasoning": "It's unclear how the stack of newspapers ended up blocking the refrigerator's door."
+        },
+        "follow-up": {
+            "FQ": "Why are the newspapers blocking the refrigerator's door?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A stack of newspapers blocks a refrigerator's door",
+            "reasoning": "It's unclear how the stack of newspapers ended up blocking the refrigerator's door."
+        },
+        "follow-up": {
+            "FQ": "Is there something inside the refrigerator that needs to be hidden or kept secure?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A stack of newspapers blocks a refrigerator's door",
+            "reasoning": "It's unclear how the stack of newspapers ended up blocking the refrigerator's door."
+        },
+        "follow-up": {
+            "FQ": "Are there any other unusual occurrences in the vicinity?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A neighbor consistently parks their car halfway on the sidewalk",
+            "reasoning": "It's unclear why the neighbor consistently parks their car halfway on the sidewalk, potentially obstructing pedestrian traffic."
+        },
+        "follow-up": {
+            "FQ": "Why does the neighbor consistently park their car halfway on the sidewalk?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A neighbor consistently parks their car halfway on the sidewalk",
+            "reasoning": "It's unclear why the neighbor consistently parks their car halfway on the sidewalk, potentially obstructing pedestrian traffic."
+        },
+        "follow-up": {
+            "FQ": "Does the neighbor have any physical disabilities that might affect their parking?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A neighbor consistently parks their car halfway on the sidewalk",
+            "reasoning": "It's unclear why the neighbor consistently parks their car halfway on the sidewalk, potentially obstructing pedestrian traffic."
+        },
+        "follow-up": {
+            "FQ": "Has anyone tried addressing this issue with the neighbor?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A dog, who ordinarily hates water, is now splashing joyfully in the pool",
+            "reasoning": "It's unclear why the dog, who ordinarily hates water, is now splashing joyfully in the pool."
+        },
+        "follow-up": {
+            "FQ": "What caused the dog's sudden change in behavior towards water?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A dog, who ordinarily hates water, is now splashing joyfully in the pool",
+            "reasoning": "It's unclear why the dog, who ordinarily hates water, is now splashing joyfully in the pool."
+        },
+        "follow-up": {
+            "FQ": "Has the dog's environment or routine changed recently?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A dog, who ordinarily hates water, is now splashing joyfully in the pool",
+            "reasoning": "It's unclear why the dog, who ordinarily hates water, is now splashing joyfully in the pool."
+        },
+        "follow-up": {
+            "FQ": "Is there anyone or anything else interacting with the dog in the pool?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A woman always carries an umbrella, even on sunny days",
+            "reasoning": "It's unclear why the woman always carries an umbrella, even on sunny days."
+        },
+        "follow-up": {
+            "FQ": "Why does the woman always carry an umbrella, even on sunny days?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A woman always carries an umbrella, even on sunny days",
+            "reasoning": "It's unclear why the woman always carries an umbrella, even on sunny days."
+        },
+        "follow-up": {
+            "FQ": "Does the woman have any health conditions that require her to carry an umbrella?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A woman always carries an umbrella, even on sunny days",
+            "reasoning": "It's unclear why the woman always carries an umbrella, even on sunny days."
+        },
+        "follow-up": {
+            "FQ": "Does the umbrella have any symbolic or cultural significance to the woman?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A dog stands eagerly in front of a door",
+            "reasoning": "It's unclear why the dog is standing eagerly in front of the door."
+        },
+        "follow-up": {
+            "FQ": "Why is the dog eager in front of the door?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A dog stands eagerly in front of a door",
+            "reasoning": "It's unclear why the dog is standing eagerly in front of the door."
+        },
+        "follow-up": {
+            "FQ": "Is the dog trained to behave this way?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A dog stands eagerly in front of a door",
+            "reasoning": "It's unclear why the dog is standing eagerly in front of the door."
+        },
+        "follow-up": {
+            "FQ": "Is there someone or something the dog is waiting for?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A laptop is sitting in a bird's nest",
+            "reasoning": "It's unclear how a laptop ended up in a bird's nest."
+        },
+        "follow-up": {
+            "FQ": "How did the laptop end up in the bird's nest?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A laptop is sitting in a bird's nest",
+            "reasoning": "It's unclear how a laptop ended up in a bird's nest."
+        },
+        "follow-up": {
+            "FQ": "Are there any birds present in the nest?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A laptop is sitting in a bird's nest",
+            "reasoning": "It's unclear how a laptop ended up in a bird's nest."
+        },
+        "follow-up": {
+            "FQ": "Is the nest located in an urban or rural setting?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A once bubbly and bustling brook was now just a trickle",
+            "reasoning": "It's unclear why the once bubbly and bustling brook has now reduced to just a trickle."
+        },
+        "follow-up": {
+            "FQ": "What caused the brook to reduce to a trickle?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A once bubbly and bustling brook was now just a trickle",
+            "reasoning": "It's unclear why the once bubbly and bustling brook has now reduced to just a trickle."
+        },
+        "follow-up": {
+            "FQ": "Has there been any recent construction or development nearby?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A once bubbly and bustling brook was now just a trickle",
+            "reasoning": "It's unclear why the once bubbly and bustling brook has now reduced to just a trickle."
+        },
+        "follow-up": {
+            "FQ": "Are there any efforts to restore the brook to its previous state?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A habitual diet coke drinker now only drinks fruit juice.",
+            "reasoning": "It's unclear why the habitual diet coke drinker suddenly switched to only drinking fruit juice."
+        },
+        "follow-up": {
+            "FQ": "What prompted the change from diet coke to fruit juice?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A habitual diet coke drinker now only drinks fruit juice.",
+            "reasoning": "It's unclear why the habitual diet coke drinker suddenly switched to only drinking fruit juice."
+        },
+        "follow-up": {
+            "FQ": "What kind of fruit juice is the person now consuming?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A habitual diet coke drinker now only drinks fruit juice.",
+            "reasoning": "It's unclear why the habitual diet coke drinker suddenly switched to only drinking fruit juice."
+        },
+        "follow-up": {
+            "FQ": "Are there any noticeable changes in their health or behavior since the switch?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A man carries a small notebook with him everywhere, writing down every conversation he overhears",
+            "reasoning": "It's unclear why the man feels the need to document every conversation he overhears."
+        },
+        "follow-up": {
+            "FQ": "What is the man's purpose for recording every conversation he overhears?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A man carries a small notebook with him everywhere, writing down every conversation he overhears",
+            "reasoning": "It's unclear why the man feels the need to document every conversation he overhears."
+        },
+        "follow-up": {
+            "FQ": "Is the man using the information he gathers for personal or professional reasons?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A man carries a small notebook with him everywhere, writing down every conversation he overhears",
+            "reasoning": "It's unclear why the man feels the need to document every conversation he overhears."
+        },
+        "follow-up": {
+            "FQ": "What are the reactions of those who discover they've been overheard and recorded by the man?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A gluestick sits on a tree branch",
+            "reasoning": "It's unclear how a gluestick ended up sitting on a tree branch."
+        },
+        "follow-up": {
+            "FQ": "How did the gluestick end up on the tree branch?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A gluestick sits on a tree branch",
+            "reasoning": "It's unclear how a gluestick ended up sitting on a tree branch."
+        },
+        "follow-up": {
+            "FQ": "What type of tree is the gluestick on?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A gluestick sits on a tree branch",
+            "reasoning": "It's unclear how a gluestick ended up sitting on a tree branch."
+        },
+        "follow-up": {
+            "FQ": "Are there any other unusual items in the vicinity?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A man never takes off his hat, even when inside a building",
+            "reasoning": "It's unclear why the man never takes off his hat, even when inside a building."
+        },
+        "follow-up": {
+            "FQ": "Why does the man insist on keeping his hat on even indoors?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A man never takes off his hat, even when inside a building",
+            "reasoning": "It's unclear why the man never takes off his hat, even when inside a building."
+        },
+        "follow-up": {
+            "FQ": "Does he have any physical condition that requires him to wear a hat at all times?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A man never takes off his hat, even when inside a building",
+            "reasoning": "It's unclear why the man never takes off his hat, even when inside a building."
+        },
+        "follow-up": {
+            "FQ": "How does his constant hat-wearing affect his daily life?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A music CD is in the washing machine, spinning in the rinse cycle",
+            "reasoning": "It's unclear why a music CD is in the washing machine, as this is not a typical method for cleaning or maintaining CDs."
+        },
+        "follow-up": {
+            "FQ": "Why is the music CD in the washing machine?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A music CD is in the washing machine, spinning in the rinse cycle",
+            "reasoning": "It's unclear why a music CD is in the washing machine, as this is not a typical method for cleaning or maintaining CDs."
+        },
+        "follow-up": {
+            "FQ": "Could this be an accident or a deliberate act?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A music CD is in the washing machine, spinning in the rinse cycle",
+            "reasoning": "It's unclear why a music CD is in the washing machine, as this is not a typical method for cleaning or maintaining CDs."
+        },
+        "follow-up": {
+            "FQ": "Is there a specific reason for choosing the rinse cycle?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A teenager is keeping all his window shades shut during the day",
+            "reasoning": "It's unclear why the teenager is keeping all his window shades shut during the day."
+        },
+        "follow-up": {
+            "FQ": "Why is the teenager keeping all his window shades shut during the day?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A teenager is keeping all his window shades shut during the day",
+            "reasoning": "It's unclear why the teenager is keeping all his window shades shut during the day."
+        },
+        "follow-up": {
+            "FQ": "Is there something outside the window that the teenager is trying to avoid?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A teenager is keeping all his window shades shut during the day",
+            "reasoning": "It's unclear why the teenager is keeping all his window shades shut during the day."
+        },
+        "follow-up": {
+            "FQ": "Are there any specific rules or cultural practices in his household that encourage keeping the shades shut?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A coworker always brings homemade snacks to share with everyone in the office",
+            "reasoning": "It's unclear why the coworker always brings homemade snacks to share with everyone in the office."
+        },
+        "follow-up": {
+            "FQ": "What motivates the coworker to consistently bring homemade snacks?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A coworker always brings homemade snacks to share with everyone in the office",
+            "reasoning": "It's unclear why the coworker always brings homemade snacks to share with everyone in the office."
+        },
+        "follow-up": {
+            "FQ": "Does the coworker have a culinary background?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A coworker always brings homemade snacks to share with everyone in the office",
+            "reasoning": "It's unclear why the coworker always brings homemade snacks to share with everyone in the office."
+        },
+        "follow-up": {
+            "FQ": "How does this act affect the overall office environment?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "The revolving door of the hotel entrance spun no more, directing guests to a side entrance",
+            "reasoning": "It's unclear why the revolving door of the hotel entrance is no longer spinning, forcing guests to use a side entrance."
+        },
+        "follow-up": {
+            "FQ": "Why has the revolving door of the hotel stopped spinning?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "The revolving door of the hotel entrance spun no more, directing guests to a side entrance",
+            "reasoning": "It's unclear why the revolving door of the hotel entrance is no longer spinning, forcing guests to use a side entrance."
+        },
+        "follow-up": {
+            "FQ": "Is there any repair work going on at the main entrance?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "The revolving door of the hotel entrance spun no more, directing guests to a side entrance",
+            "reasoning": "It's unclear why the revolving door of the hotel entrance is no longer spinning, forcing guests to use a side entrance."
+        },
+        "follow-up": {
+            "FQ": "What measures has the hotel management taken to ensure smooth entry and exit?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A cat normally paced around the porch, but it was sitting still",
+            "reasoning": "It's unclear why the cat, who normally paces around the porch, is now sitting still."
+        },
+        "follow-up": {
+            "FQ": "Why is the cat sitting still instead of pacing around as usual?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A cat normally paced around the porch, but it was sitting still",
+            "reasoning": "It's unclear why the cat, who normally paces around the porch, is now sitting still."
+        },
+        "follow-up": {
+            "FQ": "Could the cat be sick or injured?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A cat normally paced around the porch, but it was sitting still",
+            "reasoning": "It's unclear why the cat, who normally paces around the porch, is now sitting still."
+        },
+        "follow-up": {
+            "FQ": "What is the cat's behavior indicating?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A pair of slippers is seen on the dining table",
+            "reasoning": "It's unclear why a pair of slippers is placed on the dining table, which is an unusual location for footwear."
+        },
+        "follow-up": {
+            "FQ": "Why are the slippers on the dining table?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A pair of slippers is seen on the dining table",
+            "reasoning": "It's unclear why a pair of slippers is placed on the dining table, which is an unusual location for footwear."
+        },
+        "follow-up": {
+            "FQ": "Are the slippers clean or dirty?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A pair of slippers is seen on the dining table",
+            "reasoning": "It's unclear why a pair of slippers is placed on the dining table, which is an unusual location for footwear."
+        },
+        "follow-up": {
+            "FQ": "What is the significance of the slippers being on the dining table?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A broken mirror has been replaced with a painting",
+            "reasoning": "It's unclear why a painting was chosen to replace a broken mirror, as they serve very different functions."
+        },
+        "follow-up": {
+            "FQ": "Why was the mirror replaced with a painting",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A broken mirror has been replaced with a painting",
+            "reasoning": "It's unclear why a painting was chosen to replace a broken mirror, as they serve very different functions."
+        },
+        "follow-up": {
+            "FQ": "Was the mirror broken accidentally or intentionally",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A broken mirror has been replaced with a painting",
+            "reasoning": "It's unclear why a painting was chosen to replace a broken mirror, as they serve very different functions."
+        },
+        "follow-up": {
+            "FQ": "Where was the mirror originally located?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A classmate never contributes during group discussions but always expects a good grade",
+            "reasoning": "It's unclear how a classmate who never contributes during group discussions always expects a good grade."
+        },
+        "follow-up": {
+            "FQ": "Why doesn't the classmate participate in group discussions?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A classmate never contributes during group discussions but always expects a good grade",
+            "reasoning": "It's unclear how a classmate who never contributes during group discussions always expects a good grade."
+        },
+        "follow-up": {
+            "FQ": "Does the classmate contribute in other ways outside of discussions?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A classmate never contributes during group discussions but always expects a good grade",
+            "reasoning": "It's unclear how a classmate who never contributes during group discussions always expects a good grade."
+        },
+        "follow-up": {
+            "FQ": "Are there any rules or guidelines about participation and grading in the group project?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A dog that enjoyed playing fetch was lying motionless.",
+            "reasoning": "It's unclear why the dog, who usually enjoys playing fetch, is lying motionless."
+        },
+        "follow-up": {
+            "FQ": "Is the dog unwell or just resting?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A dog that enjoyed playing fetch was lying motionless.",
+            "reasoning": "It's unclear why the dog, who usually enjoys playing fetch, is lying motionless."
+        },
+        "follow-up": {
+            "FQ": "Was there any unusual behavior observed before the dog became motionless?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A dog that enjoyed playing fetch was lying motionless.",
+            "reasoning": "It's unclear why the dog, who usually enjoys playing fetch, is lying motionless."
+        },
+        "follow-up": {
+            "FQ": "Are there any visible signs of injury or distress on the dog?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A favorite book, once handled with care, now rests worn and creased from heavy use",
+            "reasoning": "It's unclear who has been using the favorite book so heavily that it's now worn and creased."
+        },
+        "follow-up": {
+            "FQ": "What caused the book to become worn and creased?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A favorite book, once handled with care, now rests worn and creased from heavy use",
+            "reasoning": "It's unclear who has been using the favorite book so heavily that it's now worn and creased."
+        },
+        "follow-up": {
+            "FQ": "What is the book about?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A favorite book, once handled with care, now rests worn and creased from heavy use",
+            "reasoning": "It's unclear who has been using the favorite book so heavily that it's now worn and creased."
+        },
+        "follow-up": {
+            "FQ": "How long has the book been in use?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "The barista filled the cup only halfway with coffee",
+            "reasoning": "It's unclear why the barista only filled the cup halfway with coffee."
+        },
+        "follow-up": {
+            "FQ": "Why did the barista only fill the cup halfway with coffee?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "The barista filled the cup only halfway with coffee",
+            "reasoning": "It's unclear why the barista only filled the cup halfway with coffee."
+        },
+        "follow-up": {
+            "FQ": "Was the customer's order for a half cup of coffee?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "The barista filled the cup only halfway with coffee",
+            "reasoning": "It's unclear why the barista only filled the cup halfway with coffee."
+        },
+        "follow-up": {
+            "FQ": "Is this a new trend in serving coffee?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A man started painting the walls of his house at midnight",
+            "reasoning": "It's unclear why the man chose to start painting his house at midnight, an unusual time for such an activity."
+        },
+        "follow-up": {
+            "FQ": "Why did the man choose to paint his house at midnight?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A man started painting the walls of his house at midnight",
+            "reasoning": "It's unclear why the man chose to start painting his house at midnight, an unusual time for such an activity."
+        },
+        "follow-up": {
+            "FQ": "Is the man painting the interior or exterior of his house?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A man started painting the walls of his house at midnight",
+            "reasoning": "It's unclear why the man chose to start painting his house at midnight, an unusual time for such an activity."
+        },
+        "follow-up": {
+            "FQ": "Is there a specific reason or event that prompted the man to start painting his house?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A hat was balanced on the branch of a tree",
+            "reasoning": "It's unclear how the hat ended up balanced on the branch of a tree."
+        },
+        "follow-up": {
+            "FQ": "How did the hat end up on the tree branch?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A hat was balanced on the branch of a tree",
+            "reasoning": "It's unclear how the hat ended up balanced on the branch of a tree."
+        },
+        "follow-up": {
+            "FQ": "What kind of hat is it?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A hat was balanced on the branch of a tree",
+            "reasoning": "It's unclear how the hat ended up balanced on the branch of a tree."
+        },
+        "follow-up": {
+            "FQ": "Are there any signs of recent human activity around the tree?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "An umbrella is open in the living room",
+            "reasoning": "It's unclear why an umbrella would be open in the living room, a place typically sheltered from rain."
+        },
+        "follow-up": {
+            "FQ": "Why is the umbrella open in the living room?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "An umbrella is open in the living room",
+            "reasoning": "It's unclear why an umbrella would be open in the living room, a place typically sheltered from rain."
+        },
+        "follow-up": {
+            "FQ": "Who opened the umbrella?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "An umbrella is open in the living room",
+            "reasoning": "It's unclear why an umbrella would be open in the living room, a place typically sheltered from rain."
+        },
+        "follow-up": {
+            "FQ": "What is the condition of the rest of the living room?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A bakery, known for its aroma of fresh bread, was silent and free of any smell",
+            "reasoning": "It's unclear why the bakery, which is known for its aroma of fresh bread, was silent and free of any smell."
+        },
+        "follow-up": {
+            "FQ": "Why is the bakery silent and devoid of any smell?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A bakery, known for its aroma of fresh bread, was silent and free of any smell",
+            "reasoning": "It's unclear why the bakery, which is known for its aroma of fresh bread, was silent and free of any smell."
+        },
+        "follow-up": {
+            "FQ": "Are there any visible changes in the bakery?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A bakery, known for its aroma of fresh bread, was silent and free of any smell",
+            "reasoning": "It's unclear why the bakery, which is known for its aroma of fresh bread, was silent and free of any smell."
+        },
+        "follow-up": {
+            "FQ": "What could be the possible reasons for this unusual situation?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A television remote is found in the refrigerator",
+            "reasoning": "It's unclear how the television remote ended up in the refrigerator."
+        },
+        "follow-up": {
+            "FQ": "How did the television remote end up in the refrigerator?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A television remote is found in the refrigerator",
+            "reasoning": "It's unclear how the television remote ended up in the refrigerator."
+        },
+        "follow-up": {
+            "FQ": "Are there any signs of confusion or forgetfulness in the household?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A television remote is found in the refrigerator",
+            "reasoning": "It's unclear how the television remote ended up in the refrigerator."
+        },
+        "follow-up": {
+            "FQ": "Is there a possibility of a prank or a misunderstanding?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A mirror, usually spotless, is now dotted with splashes and streaks",
+            "reasoning": "It's unclear how the usually spotless mirror ended up with splashes and streaks."
+        },
+        "follow-up": {
+            "FQ": "What caused the splashes and streaks on the mirror?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A mirror, usually spotless, is now dotted with splashes and streaks",
+            "reasoning": "It's unclear how the usually spotless mirror ended up with splashes and streaks."
+        },
+        "follow-up": {
+            "FQ": "Could the streaks on the mirror be a deliberate act?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A mirror, usually spotless, is now dotted with splashes and streaks",
+            "reasoning": "It's unclear how the usually spotless mirror ended up with splashes and streaks."
+        },
+        "follow-up": {
+            "FQ": "What is the significance of the mirror usually being spotless?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "An employee is always the last to arrive and the first to leave work",
+            "reasoning": "It's unclear how the employee manages to complete their work effectively when they are always the last to arrive and the first to leave."
+        },
+        "follow-up": {
+            "FQ": "Why is the employee consistently late and leaving early?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "An employee is always the last to arrive and the first to leave work",
+            "reasoning": "It's unclear how the employee manages to complete their work effectively when they are always the last to arrive and the first to leave."
+        },
+        "follow-up": {
+            "FQ": "Are there any personal issues affecting the employee's punctuality?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "An employee is always the last to arrive and the first to leave work",
+            "reasoning": "It's unclear how the employee manages to complete their work effectively when they are always the last to arrive and the first to leave."
+        },
+        "follow-up": {
+            "FQ": "Has the management addressed this issue with the employee?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A woman, formerly adorned in vibrant hues, now appears in monochromatic attire",
+            "reasoning": "It's unclear why the woman, who used to wear vibrant hues, now appears in monochromatic attire."
+        },
+        "follow-up": {
+            "FQ": "Why has the woman's attire changed from vibrant hues to monochromatic?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A woman, formerly adorned in vibrant hues, now appears in monochromatic attire",
+            "reasoning": "It's unclear why the woman, who used to wear vibrant hues, now appears in monochromatic attire."
+        },
+        "follow-up": {
+            "FQ": "Does the shift in her clothing color reflect a change in her mood or circumstances?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A woman, formerly adorned in vibrant hues, now appears in monochromatic attire",
+            "reasoning": "It's unclear why the woman, who used to wear vibrant hues, now appears in monochromatic attire."
+        },
+        "follow-up": {
+            "FQ": "Could the change in attire be symbolic of a cultural or societal expectation?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A car key is found in a bowl of popcorn",
+            "reasoning": "It's unclear how a car key ended up in a bowl of popcorn."
+        },
+        "follow-up": {
+            "FQ": "How did the car key end up in the popcorn bowl?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A car key is found in a bowl of popcorn",
+            "reasoning": "It's unclear how a car key ended up in a bowl of popcorn."
+        },
+        "follow-up": {
+            "FQ": "Was the popcorn bowl in a public or private location?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A car key is found in a bowl of popcorn",
+            "reasoning": "It's unclear how a car key ended up in a bowl of popcorn."
+        },
+        "follow-up": {
+            "FQ": "Are there any signs of forced entry into the car?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A restaurant owner was observed opening his establishment every day only for an hour",
+            "reasoning": "It's unclear why the restaurant owner opens his establishment only for an hour each day."
+        },
+        "follow-up": {
+            "FQ": "Why does the restaurant owner only open his establishment for an hour each day?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A restaurant owner was observed opening his establishment every day only for an hour",
+            "reasoning": "It's unclear why the restaurant owner opens his establishment only for an hour each day."
+        },
+        "follow-up": {
+            "FQ": "Is there a specific reason for the restaurant's unusual operating hours?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A restaurant owner was observed opening his establishment every day only for an hour",
+            "reasoning": "It's unclear why the restaurant owner opens his establishment only for an hour each day."
+        },
+        "follow-up": {
+            "FQ": "How does the restaurant manage to sustain its business with such limited operating hours?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A cat that often lay dozing on the windowsill was clawing at the screen",
+            "reasoning": "It's unclear why the cat, who often lay dozing on the windowsill, was suddenly clawing at the screen."
+        },
+        "follow-up": {
+            "FQ": "What caused the cat to claw at the screen?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A cat that often lay dozing on the windowsill was clawing at the screen",
+            "reasoning": "It's unclear why the cat, who often lay dozing on the windowsill, was suddenly clawing at the screen."
+        },
+        "follow-up": {
+            "FQ": "Has the cat's behavior changed recently?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A cat that often lay dozing on the windowsill was clawing at the screen",
+            "reasoning": "It's unclear why the cat, who often lay dozing on the windowsill, was suddenly clawing at the screen."
+        },
+        "follow-up": {
+            "FQ": "Is the cat showing signs of stress or discomfort?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A neighbor paints their front door a different color every month",
+            "reasoning": "It's unclear why the neighbor paints their front door a different color every month."
+        },
+        "follow-up": {
+            "FQ": "What motivates the neighbor to change their door color monthly?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A neighbor paints their front door a different color every month",
+            "reasoning": "It's unclear why the neighbor paints their front door a different color every month."
+        },
+        "follow-up": {
+            "FQ": "Does the neighbor follow a specific pattern or theme in their color choices?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A neighbor paints their front door a different color every month",
+            "reasoning": "It's unclear why the neighbor paints their front door a different color every month."
+        },
+        "follow-up": {
+            "FQ": "Are there any local regulations or homeowner association rules regarding the frequent change of door color?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A man leaves his front door ajar and walk away",
+            "reasoning": "It's unclear why the man would leave his front door ajar and walk away, potentially inviting danger or theft."
+        },
+        "follow-up": {
+            "FQ": "Why did the man leave his front door ajar?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A man leaves his front door ajar and walk away",
+            "reasoning": "It's unclear why the man would leave his front door ajar and walk away, potentially inviting danger or theft."
+        },
+        "follow-up": {
+            "FQ": "Is there anyone else in the house?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A man leaves his front door ajar and walk away",
+            "reasoning": "It's unclear why the man would leave his front door ajar and walk away, potentially inviting danger or theft."
+        },
+        "follow-up": {
+            "FQ": "What is the man's state of mind as he walks away?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A man always wears a suit, even in casual meetups",
+            "reasoning": "It's unclear why the man always wears a suit, even in casual meetups."
+        },
+        "follow-up": {
+            "FQ": "Why does the man always wear a suit, even in casual meetups?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A man always wears a suit, even in casual meetups",
+            "reasoning": "It's unclear why the man always wears a suit, even in casual meetups."
+        },
+        "follow-up": {
+            "FQ": "Does the man feel uncomfortable or out of place in casual clothing?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "A man always wears a suit, even in casual meetups",
+            "reasoning": "It's unclear why the man always wears a suit, even in casual meetups."
+        },
+        "follow-up": {
+            "FQ": "Has anyone ever commented on or questioned his choice of attire?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "An empty room only has a single chair in the center",
+            "reasoning": "It's unclear why there is only a single chair in the center of an otherwise empty room."
+        },
+        "follow-up": {
+            "FQ": "Why is the room empty except for a single chair?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "An empty room only has a single chair in the center",
+            "reasoning": "It's unclear why there is only a single chair in the center of an otherwise empty room."
+        },
+        "follow-up": {
+            "FQ": "Is the room usually this empty or has it been cleared out?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "An empty room only has a single chair in the center",
+            "reasoning": "It's unclear why there is only a single chair in the center of an otherwise empty room."
+        },
+        "follow-up": {
+            "FQ": "What is the overall atmosphere of the room?",
+            "category": 5
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "An artist uses food like pasta and rice in his paintings",
+            "reasoning": "It's unclear how the artist manages to incorporate perishable items like pasta and rice into his paintings without them spoiling or attracting pests."
+        },
+        "follow-up": {
+            "FQ": "What is the artist's motivation for using food in his artwork?",
+            "category": 1
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "An artist uses food like pasta and rice in his paintings",
+            "reasoning": "It's unclear how the artist manages to incorporate perishable items like pasta and rice into his paintings without them spoiling or attracting pests."
+        },
+        "follow-up": {
+            "FQ": "Are there any specific themes or messages conveyed through these food-based paintings?",
+            "category": 3
+        }
+    },
+    {
+        "context": {
+            "scn_sentence": "An artist uses food like pasta and rice in his paintings",
+            "reasoning": "It's unclear how the artist manages to incorporate perishable items like pasta and rice into his paintings without them spoiling or attracting pests."
+        },
+        "follow-up": {
+            "FQ": "Does the artist use any other unconventional materials in his work?",
+            "category": 5
+        }
+    }
+]

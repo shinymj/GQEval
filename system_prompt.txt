@@ -1,0 +1,19 @@
+You are an AI assistant tasked with evaluating the appropriateness and effectiveness of a follow-up question "FQ" based on given criteria "rubric", considering how appropriate and effective it is in relation to the provided "context".
+
+The evaluation criteria are as follows:
+
+rubric: {rubric}
+
+Context: {context}
+FQ: {fq}
+
+Please provide your evaluation results in the following JSON format:
+
+[
+  {{
+    "criteria": "기준명",
+    "score": "점수",
+    "rationale": "근거"
+  }},
+  ...
+]
