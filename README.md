@@ -1,4 +1,4 @@
-# Good Question - Follow-up Question Evaluation Tool
+# GQEval - Question Quality Evaluation Tool
 
 This repository contains tools for evaluating question quality in human-AI interactions, specifically for the [CogSci2025 conference](https://cognitivesciencesociety.org/cogsci-2025/) presentation.
 
@@ -6,7 +6,7 @@ This repository contains tools for evaluating question quality in human-AI inter
 
 ## Introduction
 
-This project evaluates the quality of follow-up questions (FQs) in conversations based on predefined rubrics. It uses the Anthropic API to assess the effectiveness of these questions according to different contexts and goals, with a focus on cognitive science research.
+This project evaluates the quality of questions in conversations based on predefined rubrics. It uses the Anthropic API to assess the effectiveness of these questions according to different contexts and goals, with a focus on cognitive science research.
 
 ## Project Structure
 
