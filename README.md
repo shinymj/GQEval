@@ -1,8 +1,6 @@
-# GQEval - Question Quality Evaluation Tool
+# QQEval - Question Quality Evaluation Tool
 
 This repository contains tools for evaluating question quality in human-AI interactions, specifically for the [CogSci2025 conference](https://cognitivesciencesociety.org/cogsci-2025/) presentation.
-
-
 
 ## Introduction
 
@@ -26,12 +24,6 @@ pip install -r requirements.txt
 
 ```
 
-The requirements include:
-
-- anthropic>=0.19.1
-- python-dotenv>=1.0.0
-- datetime
-
 ## Setup
 
 1. Clone this repository
@@ -42,17 +34,12 @@ The requirements include:
     ```
     Note: The `.env` file is included in `.gitignore` and will not be uploaded to the repository for security reasons.
     
-
-    
-
 ## Usage
 
 Run the evaluation script with:
-
 ```bash
 python eval_anth.py
 ```
-
 The script will:
 
 1. Load sample conversations from the specified input file
